@@ -111,7 +111,7 @@ To run the project, execute the following command:
 
 - GitHub: [@melkamu12](https://github.com/melkamu12)
 - LinkedIn: [Melkamu Almawu](https://www.linkedin.com/in/melkamu-almawu/)
-- Twitter: [@mariegracebmg](https://twitter.com/Melkamu_Almawu)
+- Twitter: [@Melkamu_Almawu](https://twitter.com/Melkamu_Almawu)
 
 <!-- FUTURE FEATURES -->
 
